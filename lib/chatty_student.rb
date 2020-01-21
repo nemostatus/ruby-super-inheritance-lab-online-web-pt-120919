@@ -1,4 +1,4 @@
-require_relative './student.rb'
+require_relative "./student.rb"
 Class Chatty_student < Student 
 def hello 
   super 
