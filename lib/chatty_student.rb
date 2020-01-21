@@ -6,7 +6,7 @@ def hello
 end 
 def raise_hand
   super
-  9.times do puts "pick me"
+  10.times do puts "pick me"
 end 
 end 
 end 
